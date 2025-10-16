@@ -30,12 +30,12 @@ Sistema simples para gerenciar conexões de Rack usando Flask e MySQL.
 
 1.1 **Clone o repositório:**
    ```sh
-   git clone https://github.com/marckcm/Rede_a1.git
-   cd Controle
+   git clone https://github.com/marckcm/Rede_a1.git   
    ```
 
 2. **Instale as dependências com uv:**
    ```sh
+   no terminal do PowerShell
    uv add flask mysql-connector-python
    ```
 
