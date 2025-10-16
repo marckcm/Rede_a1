@@ -26,11 +26,11 @@ Sistema simples para gerenciar conexões de Rack usando Flask e MySQL.
         uv tree
     <!-- desativar o ambiente virtual: -->
         deactivate
-    ```
+```
 
 1.1 **Clone o repositório:**
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/marckcm/Rede_a1.git
    cd Controle
    ```
 
